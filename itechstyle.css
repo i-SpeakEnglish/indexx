@@ -1,0 +1,47 @@
+.top-bar {
+    background-color: #0b0f38; 
+  }
+  
+  /* Top bar and navbar color */
+.top-bar, .navbar-custom {
+    
+    color: white;
+  }
+  
+  .top-bar a, .navbar-custom a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .top-bar a:hover, .navbar-custom a:hover {
+    color: #00bfff;
+  }
+  
+  /* Banner style */
+  .banner {
+    background-color: #57687a;
+    height: 300px;
+    color: white;
+  }
+  
+  /*  underline */
+  .nav-link.active {
+    border-bottom: 3px solid #00aee0;
+    color: #00aee0 !important;
+  }
+  .navbar-custom {
+    background-color: #57687a; 
+  }
+  
+  .navbar-custom .nav-link,
+  .navbar-custom .navbar-brand,
+  .navbar-custom .dropdown-item {
+    color: white;
+  }
+  
+  .navbar-custom .nav-link:hover,
+  .navbar-custom .dropdown-item:hover {
+    color: #00bfff;
+  }
+  
+  
